@@ -7,3 +7,4 @@
 "# klinik1" 
 "# klinik1" 
 "# klinik1" 
+"# pratama" 
