@@ -2,3 +2,4 @@
 "# klinik" 
 "# klinik" 
 "# klinik_pratama" 
+"# klinik_pratama" 
