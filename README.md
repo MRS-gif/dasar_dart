@@ -1,10 +1,2 @@
 "# dasar_dart" 
-"# klinik" 
-"# klinik" 
-"# klinik_pratama" 
-"# klinik_pratama" 
-"# klinik_pratama" 
-"# klinik1" 
-"# klinik1" 
-"# klinik1" 
-"# pratama" 
+
